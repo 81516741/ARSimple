@@ -6,6 +6,7 @@ ARSimple 太阳系
 - **咨询**: 81516741
 - **作者**: 曾令达
 
+喜欢的朋友请帮忙点个Star
 
 #演示
 <img src = "https://github.com/81516741/ARSimple/blob/master/gif.gif?raw=true">
